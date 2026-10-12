@@ -1,5 +1,7 @@
 # Lucky Growth Agent — 瑞幸咖啡用户运营智能体
 
+> **身份说明**：本项目是赛事的瑞幸咖啡命题参赛原型，不是品牌方官方产品或已上线服务。DSL 与示例可查；效果评价应以实际配置、数据与可复跑记录为准。
+
 ![Dify](https://img.shields.io/badge/Platform-Dify-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Agent](https://img.shields.io/badge/Type-Intent_Driven_Agent-purple)
